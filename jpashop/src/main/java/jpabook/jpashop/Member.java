@@ -13,6 +13,6 @@ public class Member {
     @Id @GeneratedValue
     private Long id;
     private String username;
-    //20230511 프로젝트 분석
+    
 
 }
